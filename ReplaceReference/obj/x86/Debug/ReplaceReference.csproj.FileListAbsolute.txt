@@ -1,0 +1,14 @@
+C:\Users\jason\documents\visual studio 2010\Projects\ReplaceReference\ReplaceReference\obj\x86\Debug\Interop.SwDocumentMgr.dll
+C:\Users\jason\documents\visual studio 2010\Projects\ReplaceReference\ReplaceReference\obj\x86\Debug\ReplaceReference.csproj.ResolveComReference.cache
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\ReplaceReference\ReplaceReference\obj\x86\Debug\Interop.SwDocumentMgr.dll
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\ReplaceReference\ReplaceReference\obj\x86\Debug\ReplaceReference.csproj.ResolveComReference.cache
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\ReplaceReference\ReplaceReference\bin\Debug\ReplaceReference.exe
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\ReplaceReference\ReplaceReference\bin\Debug\ReplaceReference.pdb
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\ReplaceReference\ReplaceReference\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\ReplaceReference\ReplaceReference\obj\x86\Debug\ReplaceReference.exe
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\ReplaceReference\ReplaceReference\obj\x86\Debug\ReplaceReference.pdb
+C:\Users\jason\documents\visual studio 2010\Projects\ReplaceReference\ReplaceReference\bin\Debug\ReplaceReference.exe
+C:\Users\jason\documents\visual studio 2010\Projects\ReplaceReference\ReplaceReference\bin\Debug\ReplaceReference.pdb
+C:\Users\jason\documents\visual studio 2010\Projects\ReplaceReference\ReplaceReference\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jason\documents\visual studio 2010\Projects\ReplaceReference\ReplaceReference\obj\x86\Debug\ReplaceReference.exe
+C:\Users\jason\documents\visual studio 2010\Projects\ReplaceReference\ReplaceReference\obj\x86\Debug\ReplaceReference.pdb
