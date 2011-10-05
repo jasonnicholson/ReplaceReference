@@ -30,22 +30,23 @@ None yet
 
 # Command Line Instructions
 
-Syntax 
-    [option] [ParentFilePath]   [ChildFilePath]
+    Syntax 
+        [option]    [ParentFilePath]   [ChildFilePath] [NewChildFilePath]
 
-No wildcars allowed. If the path has spaces use quotes around it.  Note that
-the files must have one of the following file extensions: .sldasm, .slddrw, 
-.sldprt, .asm, .drw, or .prt.  The output is tab delimited.  This makes it 
-easy to redirect the output to a text file that can be opened as spreadsheet.
+    No wildcars allowed. If the path has spaces use quotes around it.  Note that
+    the files must have one of the following file extensions: .sldasm, .slddrw, 
+    .sldprt, .asm, .drw, or .prt.  The NewChildFilePath must exist.  The output 
+    is tab delimited.  This makes it easy to redirect the output to a text file 
+    that can be opened as spreadsheet.
 
-Options
-    /q      Quiet mode.  Suppresses the current message.  It does
-            not suppress the one line error messages related to problems
-            opening SolidWorks Files.  Quiet mode is useful for batch files
-            when you are directing the output to a file.  The main error 
-            message is suppressed but you are still informed about problems 
-            opening files.
+    Options  
+        /q      Quiet mode.  Suppresses the current message.  It does
+                not suppress the one line error messages related to problems
+                opening SolidWorks Files.  Quiet mode is useful for batch files
+                when you are directing the output to a file.  The main error 
+                message is suppressed but you are still informed about problems 
+                opening files.
 
-Version 2011-Oct-2 23:29
-Written and Maintained by Jason Nicholson
-http://github.com/jasonnicholson/ReplaceReference
+    Version 2011-Oct-4 21:30
+    Written and Maintained by Jason Nicholson
+    http://github.com/jasonnicholson/ReplaceReference'
